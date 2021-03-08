@@ -200,7 +200,7 @@ http://latetedelemploi.be/fr/
 ### Test d'Anysurfer.
 
 | Numéro      |     Description                                                                                        |   Poids | Résultat |
-| ------------|: ------------------------------------------------------------------------------------------------------|: ------:| --------:|
+| ----------- | ------------------------------------------------------------------------------------------------------ | ------- | -------- |
 | 1           |        Les titres de pages sont-ils significatifs ?                                                    |       1 |      1   |
 | 2           |        La langue des pages est-elle correctement indiquée ?                                            |       2 |      0   |
 | 3           |        Le focus est-il visible lors de la tabulation ?                                                 |       2 |      0   |
